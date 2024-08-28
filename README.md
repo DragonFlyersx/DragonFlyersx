@@ -1,6 +1,5 @@
 
-![Logo](https://github.com/user-attachments/assets/d4b8a340-35a1-41e3-9c6e-1c8b5987a595)
-
+![Logo](https://github.com/user-attachments/assets/aac16ab7-709c-4cd6-85ec-37915aa3e101)
 
 ## 🚀 About Me
 My name is Mathias Larsen. Im currently studying my bachelors degree in software development at IT-University in Copenhagen
@@ -22,4 +21,5 @@ My name is Mathias Larsen. Im currently studying my bachelors degree in software
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mathiaslarsen.dk/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-niklas-larsen-13124b19b/)
+
 
