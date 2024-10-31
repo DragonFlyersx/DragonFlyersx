@@ -2,7 +2,7 @@
 ![Logo](https://github.com/user-attachments/assets/aac16ab7-709c-4cd6-85ec-37915aa3e101)
 
 ## 🚀 About Me
-My name is Mathias Larsen. Im currently studying my bachelors degree in software development at IT-University in Copenhagen
+Hi! My name is Mathias Larsen. Im currently studying my bachelors degree in software development at IT-University in Copenhagen
 
 
 
