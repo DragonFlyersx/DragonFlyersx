@@ -9,11 +9,11 @@ Hi! My name is Mathias Larsen. Im currently studying my bachelors degree in soft
 ## 🛠 Skills
 ### I have experience using these tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,cs,blender,autocad,xd,vscode,rider,pr,ps,figma,nodejs,idea,react,go,dotnet,sqlite,githubactions,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,cs,blender,autocad,xd,vscode,rider,pr,ps,figma,nodejs,idea,react,go,dotnet,sqlite,githubactions,obsidian,docker,bash,githubactions,grafana)](https://skillicons.dev)
 
 ### Im Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ### The platforms i use
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,)](https://skillicons.dev)
